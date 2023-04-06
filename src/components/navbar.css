@@ -1,0 +1,19 @@
+
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(19, 44, 19);
+  margin: 12px;
+}
+
+.links {
+  margin-right: 50px;
+  
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+}
